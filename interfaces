@@ -24,7 +24,6 @@ iface ens192 inet static
     address 172.16.30.14
     netmask 255.255.255.0
     network 172.16.30.0
-    gateway 172.16.30.1
     broadcast 172.16.30.255
 
 auto ens224
